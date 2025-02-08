@@ -1,0 +1,16 @@
+C:\Users\darkn\OneDrive\Escritorio\Universidad\Practicas C#\HMTC_Practica10\HMTC_Practica10\bin\Debug\net8.0-windows\HMTC_Practica10.exe
+C:\Users\darkn\OneDrive\Escritorio\Universidad\Practicas C#\HMTC_Practica10\HMTC_Practica10\bin\Debug\net8.0-windows\HMTC_Practica10.deps.json
+C:\Users\darkn\OneDrive\Escritorio\Universidad\Practicas C#\HMTC_Practica10\HMTC_Practica10\bin\Debug\net8.0-windows\HMTC_Practica10.runtimeconfig.json
+C:\Users\darkn\OneDrive\Escritorio\Universidad\Practicas C#\HMTC_Practica10\HMTC_Practica10\bin\Debug\net8.0-windows\HMTC_Practica10.dll
+C:\Users\darkn\OneDrive\Escritorio\Universidad\Practicas C#\HMTC_Practica10\HMTC_Practica10\bin\Debug\net8.0-windows\HMTC_Practica10.pdb
+C:\Users\darkn\OneDrive\Escritorio\Universidad\Practicas C#\HMTC_Practica10\HMTC_Practica10\obj\Debug\net8.0-windows\HMTC_Practica10.frmPractica10.resources
+C:\Users\darkn\OneDrive\Escritorio\Universidad\Practicas C#\HMTC_Practica10\HMTC_Practica10\obj\Debug\net8.0-windows\HMTC_Practica10.csproj.GenerateResource.cache
+C:\Users\darkn\OneDrive\Escritorio\Universidad\Practicas C#\HMTC_Practica10\HMTC_Practica10\obj\Debug\net8.0-windows\HMTC_Practica10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\darkn\OneDrive\Escritorio\Universidad\Practicas C#\HMTC_Practica10\HMTC_Practica10\obj\Debug\net8.0-windows\HMTC_Practica10.AssemblyInfoInputs.cache
+C:\Users\darkn\OneDrive\Escritorio\Universidad\Practicas C#\HMTC_Practica10\HMTC_Practica10\obj\Debug\net8.0-windows\HMTC_Practica10.AssemblyInfo.cs
+C:\Users\darkn\OneDrive\Escritorio\Universidad\Practicas C#\HMTC_Practica10\HMTC_Practica10\obj\Debug\net8.0-windows\HMTC_Practica10.csproj.CoreCompileInputs.cache
+C:\Users\darkn\OneDrive\Escritorio\Universidad\Practicas C#\HMTC_Practica10\HMTC_Practica10\obj\Debug\net8.0-windows\HMTC_Practica10.dll
+C:\Users\darkn\OneDrive\Escritorio\Universidad\Practicas C#\HMTC_Practica10\HMTC_Practica10\obj\Debug\net8.0-windows\refint\HMTC_Practica10.dll
+C:\Users\darkn\OneDrive\Escritorio\Universidad\Practicas C#\HMTC_Practica10\HMTC_Practica10\obj\Debug\net8.0-windows\HMTC_Practica10.pdb
+C:\Users\darkn\OneDrive\Escritorio\Universidad\Practicas C#\HMTC_Practica10\HMTC_Practica10\obj\Debug\net8.0-windows\HMTC_Practica10.genruntimeconfig.cache
+C:\Users\darkn\OneDrive\Escritorio\Universidad\Practicas C#\HMTC_Practica10\HMTC_Practica10\obj\Debug\net8.0-windows\ref\HMTC_Practica10.dll

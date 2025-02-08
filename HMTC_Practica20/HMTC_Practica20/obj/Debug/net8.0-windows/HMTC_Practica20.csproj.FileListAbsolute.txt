@@ -1,0 +1,16 @@
+C:\Users\darkn\OneDrive\Escritorio\Universidad\Practicas C#\HMTC_Practica20\HMTC_Practica20\bin\Debug\net8.0-windows\HMTC_Practica20.exe
+C:\Users\darkn\OneDrive\Escritorio\Universidad\Practicas C#\HMTC_Practica20\HMTC_Practica20\bin\Debug\net8.0-windows\HMTC_Practica20.deps.json
+C:\Users\darkn\OneDrive\Escritorio\Universidad\Practicas C#\HMTC_Practica20\HMTC_Practica20\bin\Debug\net8.0-windows\HMTC_Practica20.runtimeconfig.json
+C:\Users\darkn\OneDrive\Escritorio\Universidad\Practicas C#\HMTC_Practica20\HMTC_Practica20\bin\Debug\net8.0-windows\HMTC_Practica20.dll
+C:\Users\darkn\OneDrive\Escritorio\Universidad\Practicas C#\HMTC_Practica20\HMTC_Practica20\bin\Debug\net8.0-windows\HMTC_Practica20.pdb
+C:\Users\darkn\OneDrive\Escritorio\Universidad\Practicas C#\HMTC_Practica20\HMTC_Practica20\obj\Debug\net8.0-windows\HMTC_Practica20.frmPractica20.resources
+C:\Users\darkn\OneDrive\Escritorio\Universidad\Practicas C#\HMTC_Practica20\HMTC_Practica20\obj\Debug\net8.0-windows\HMTC_Practica20.csproj.GenerateResource.cache
+C:\Users\darkn\OneDrive\Escritorio\Universidad\Practicas C#\HMTC_Practica20\HMTC_Practica20\obj\Debug\net8.0-windows\HMTC_Practica20.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\darkn\OneDrive\Escritorio\Universidad\Practicas C#\HMTC_Practica20\HMTC_Practica20\obj\Debug\net8.0-windows\HMTC_Practica20.AssemblyInfoInputs.cache
+C:\Users\darkn\OneDrive\Escritorio\Universidad\Practicas C#\HMTC_Practica20\HMTC_Practica20\obj\Debug\net8.0-windows\HMTC_Practica20.AssemblyInfo.cs
+C:\Users\darkn\OneDrive\Escritorio\Universidad\Practicas C#\HMTC_Practica20\HMTC_Practica20\obj\Debug\net8.0-windows\HMTC_Practica20.csproj.CoreCompileInputs.cache
+C:\Users\darkn\OneDrive\Escritorio\Universidad\Practicas C#\HMTC_Practica20\HMTC_Practica20\obj\Debug\net8.0-windows\HMTC_Practica20.dll
+C:\Users\darkn\OneDrive\Escritorio\Universidad\Practicas C#\HMTC_Practica20\HMTC_Practica20\obj\Debug\net8.0-windows\refint\HMTC_Practica20.dll
+C:\Users\darkn\OneDrive\Escritorio\Universidad\Practicas C#\HMTC_Practica20\HMTC_Practica20\obj\Debug\net8.0-windows\HMTC_Practica20.pdb
+C:\Users\darkn\OneDrive\Escritorio\Universidad\Practicas C#\HMTC_Practica20\HMTC_Practica20\obj\Debug\net8.0-windows\HMTC_Practica20.genruntimeconfig.cache
+C:\Users\darkn\OneDrive\Escritorio\Universidad\Practicas C#\HMTC_Practica20\HMTC_Practica20\obj\Debug\net8.0-windows\ref\HMTC_Practica20.dll
